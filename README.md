@@ -12,13 +12,18 @@ A análise de dados é uma etapa crucial em qualquer pesquisa científica. Ela p
 O minicurso abrange os seguintes tópicos:
 
 1. **Módulo 1: Fundamentos da Análise de Dados**
+
   •	O que é Data Analytics
+  
   •	Ciclo de vida da análise de dados
+  
   •	Tipos de análise: descritiva, diagnóstica, preditiva e prescritiva
+  
   •	Papel do Python na ciência de dados
+  
   •	Conhecendo as ferramentas: Google Colab, Jupyter, VSCode, Anaconda
 
-3. **Módulo 2: Introdução ao Python para Dados**
+2. **Módulo 2: Introdução ao Python para Dados**
 
   •	Tipos de dados, variáveis e operadores
   •	Estruturas de controle (condições e laços)
