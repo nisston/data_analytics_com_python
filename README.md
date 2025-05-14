@@ -11,63 +11,56 @@ A análise de dados é uma etapa crucial em qualquer pesquisa científica. Ela p
 
 O minicurso abrange os seguintes tópicos:
 
-1. **Módulo 1: Fundamentos da Análise de Dados**
+1. **Módulo 1: Fundamentos da Análise de Dados**  
+   - O que é Data Analytics  
+   - Ciclo de vida da análise de dados  
+   - Tipos de análise: descritiva, diagnóstica, preditiva e prescritiva  
+   - Papel do Python na ciência de dados  
+   - Conhecendo as ferramentas: Google Colab, Jupyter, VSCode, Anaconda  
 
-  •	O que é Data Analytics
-  
-  •	Ciclo de vida da análise de dados
-  
-  •	Tipos de análise: descritiva, diagnóstica, preditiva e prescritiva
-  
-  •	Papel do Python na ciência de dados
-  
-  •	Conhecendo as ferramentas: Google Colab, Jupyter, VSCode, Anaconda
+2. **Módulo 2: Introdução ao Python para Dados**  
+   - Tipos de dados, variáveis e operadores  
+   - Estruturas de controle (condições e laços)  
+   - Funções e módulos  
+   - Manipulação básica de listas, dicionários e strings  
+   - Boas práticas de codificação  
 
-2. **Módulo 2: Introdução ao Python para Dados**
+3. **Módulo 3: Manipulação de Dados com Pandas**  
+   - Estruturas principais: Series e DataFrame  
+   - Leitura de arquivos (CSV, Excel, JSON)  
+   - Seleção, filtragem e ordenação  
+   - Operações com colunas e linhas  
+   - Limpeza e tratamento de dados faltantes  
+   - Agrupamento e agregações  
+   - Merge, join e concatenação  
 
-  •	Tipos de dados, variáveis e operadores
-  •	Estruturas de controle (condições e laços)
-  •	Funções e módulos
-  •	Manipulação básica de listas, dicionários e strings
-  •	Boas práticas de codificação
+4. **Módulo 4: Transformação de Dados com Python**  
+   - Aplicação de funções com `apply()`  
+   - Criação de variáveis derivadas  
+   - Classificação e segmentação de dados  
+   - Normalização e padronização  
+   - Conversão de tipos e parsing de datas  
 
-6. **Módulo 3: Manipulação de Dados com Pandas**
-  •	Estruturas principais: Series e DataFrame
-  •	Leitura de arquivos (CSV, Excel, JSON)
-  •	Seleção, filtragem e ordenação
-  •	Operações com colunas e linhas
-  •	Limpeza e tratamento de dados faltantes
-  •	Agrupamento e agregações
-  •	Merge, join e concatenação
+5. **Módulo 5: Análise Estatística e Exploratória**  
+   - Medidas descritivas (média, mediana, moda, desvio padrão)  
+   - Quartis, outliers e boxplots  
+   - Correlação e covariância  
+   - Análise exploratória com Pandas e Seaborn  
+   - Identificação de padrões e tendências  
 
-7. **Módulo 4: Transformação de Dados com Python**
-  •	Aplicação de funções com apply()
-  •	Criação de variáveis derivadas
-  •	Classificação e segmentação de dados
-  •	Normalização e padronização
-  •	Conversão de tipos e parsing de datas
+6. **Módulo 6: Visualização de Dados**  
+   - Princípios de boas visualizações  
+   - Uso de Matplotlib  
+   - Gráficos de barra, linha, dispersão e histograma  
+   - Visualizações interativas com Plotly  
+   - Dashboards simples com Streamlit (introdução)  
 
-8. **Módulo 5: Análise Estatística e Exploratória**
-  •	Medidas descritivas (média, mediana, moda, desvio padrão)
-  •	Quartis, outliers e boxplots
-  •	Correlação e covariância
-  •	Análise exploratória com Pandas e Seaborn
-  •	Identificação de padrões e tendências
-
-9. **Módulo 6: Visualização de Dados**
-  •	Princípios de boas visualizações
-  •	Uso de Matplotlib
-  •	Gráficos de barra, linha, dispersão e histograma
-  •	Visualizações interativas com Plotly
-  •	Dashboards simples com Streamlit (introdução)
-
-10. **Módulo 7: Introdução à Modelagem Preditiva**
-  •	Conceitos básicos de machine learning
-  •	Separação treino/teste
-  •	Aplicação de modelos simples com scikit-learn (regressão e classificação)
-  •	Avaliação de desempenho: accuracy e confusion matrix
-  •	Interpretação dos resultados
-
+7. **Módulo 7: Introdução à Modelagem Preditiva**  
+   - Conceitos básicos de machine learning  
+   - Separação treino/teste  
+   - Aplicação de modelos simples com scikit-learn (regressão e classificação)  
+   - Avaliação de desempenho: accuracy e confusion matrix  
+   - Interpretação dos resultados  
 
 ## Estrutura do Repositório
 
