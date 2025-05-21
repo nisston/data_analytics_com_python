@@ -71,8 +71,7 @@ O minicurso abrange os seguintes tópicos:
 
 ## Exemplos práticos
 
-- [Exemplo - Tipos de Dados](https://colab.research.google.com/drive/1fqQR4Ka780WH7TX9YnWx1NakgJaRcIZW?usp=sharing)
-- [Exemplo - Estrutura no Python](https://colab.research.google.com/drive/1KCZwPjmcqHn8u1TixxeQPJAifBWx9t29?usp=sharing)
+- [Módulo II](https://colab.research.google.com/drive/1fqQR4Ka780WH7TX9YnWx1NakgJaRcIZW?usp=sharing)
 - [Exemplo - Ciclo de vida da análise de dados](https://drive.google.com/file/d/1ShBNhEX_amtBbjBzQlal0LWkjTMP25uM/view?usp=sharing)
 - [Exemplo - Estatística Descritiva](https://colab.research.google.com/drive/1xV4mLrbbSruExmHZC7SeWWd6xvD0cFHs?usp=sharing)
 - [Exemplo - Estatística Inferencial](https://drive.google.com/file/d/1flYQrX0g5xK7gMxGri3sDBIhawgH3nzW/view?usp=sharing)
