@@ -1,0 +1,68 @@
+Seg.;Curso;AreadoConhecimento;PPC;DC;Disciplina;Período;Crédito;Campus;Centro
+1;Agronomia;Ciências Agrárias;1;0;Informática;1;4;PL;CCTA
+2;Engenharia Ambiental;Engenharias;1;0;Introdução à Informática;1;4;PL;CCTA
+3;Engenharia de Alimentos;Engenharias;1;0;Introdução à Informática;1;4;PL;CCTA
+4;Engenharia Civil;Engenharias;1;1;Introdução a Programação;1;4;PL;CCTA
+5;Engenharia Florestal;Ciências Agrárias;1;0;Informática;1;4;PT;CSTR
+6;Engenharia Florestal;Ciências Agrárias;1;0;Sist. De Inform. Geo Aplic. A C Florestal;8;4;PT;CSTR
+7;Medicina Veterinária;Ciências Agrárias;1;0;Informática;2;3;PT;CSTR
+8;Administração;Ciências Sociais Aplicadas;1;0;Introdução à Informática;1;4;SS;CCJS
+9;Administração;Ciências Sociais Aplicadas;1;0;Administração de Sist. de Informação I;5;4;SS;CCJS
+10;Administração;Ciências Sociais Aplicadas;1;0;Administração de Sist de Informação II;6;4;SS;CCJS
+11;Ciências Contábeis;Ciências Sociais Aplicadas;1;0;Fundamentos de Informática;3;4;SS;CCJS
+12;Administração;Ciências Sociais Aplicadas;1;1;Gestão de Sistemas de Informações;8;4;CG;CH
+13;Administração;Ciências Sociais Aplicadas;1;0;Administrçaão de Sistemas de Informação;8;4;CG;CH
+14;Arte e Mídia;Ciências Exatas e da Terra;1;0;Introdução à Informática;1;4;CG;CH
+15;Design;Ciências Exatas e da Terra;1;0;Computação Gráfica ;3;4;CG;CCT
+16;Engenharia Agrícola;Engenharias;1;0;Computação Aplicada ;4;4;CG;CCBS
+17;Engenharia Civil;Engenharias;1;1;Introdução à Ciência da Computação ;2;4;CG;CCBS
+18;Engenharia de Materiais;Engenharias;1;1;Introdução à Ciência da Computação ;2;4;CG;CCT
+19;Engenharia de Minas;Engenharias;1;1;Introdução à Ciência da Computação ;3;4;CG;CTRN
+20;Engenharia de Petróleo;Engenharias;1;1;Introdução à Ciência da Computação ;2;4;CG;CCT
+21;Engenharia de Produção;Engenharias;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+22;Engenharia de Produção;Engenharias;1;0;Gestão da Informação ;5;4;CG;CCT
+23;Engenharia Agrícola;Engenharias;1;0;Computação Aplicada ;4;4;CG;CCBS
+24;Engenharia Civil;Engenharias;1;1;Introdução à Ciência da Computação ;2;4;CG;CCBS
+25;Engenharia de Materiais;Engenharias;1;1;Introdução à Ciência da Computação ;2;4;CG;CCT
+26;Engenharia de Minas;Engenharias;1;1;Introdução à Ciência da Computação ;3;4;CG;CTRN
+27;Engenharia de Petróleo;Engenharias;1;1;Introdução à Ciência da Computação ;2;4;CG;CCT
+28;Engenharia de Produção;Engenharias;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+29;Engenharia Quimica;Engenharias;1;0;Informática Aplicada ;1;4;CG;CTRN
+30;Engenharia Elétrica;Engenharias;1;1;Introdução a Programação;1;4;CG;CEEI
+31;Engenharia Elétrica;Engenharias;1;1;Técnicas de Programação ;2;4;CG;CEEI
+32;Estatística;Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+33;Física (Lic);Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+34;Geografia (Lic);Ciências Humanas;1;0;Tecnologia e Educação Geográfica;7;4;CG;CH
+35;Geografia (Lic);Ciências Humanas;1;0;Tecnologia e Educação Geográfica;6;4;CG;CH
+36;Matemática (Bac);Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;1;4;CG;CH
+37;Matemática (Lic);Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+38;Matemática (Lic);Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;2;4;CG;CCT
+39;Meteorologia;Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;2;4;CG;CTRN
+40;Matemática (Lic);Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+41;Mediciana;Ciências da Saúde;1;0;Métodologia Científica e Inform. Médica ;2;2;CG;CCBS
+42;Engenharia Mecânica;Engenharias;1;1;Introdução à Ciência da Computação ;1;4;CG;CCT
+43;Ciências Sociais (Lic);Ciências Sociais Aplicadas;1;0;Informática Básica ;2;2;SM;CDSA
+44;Gestão Pública;Ciências Sociais Aplicadas;1;0;Informática Básica ;2;2;SM;CDSA
+45;Eng. De Biotecnologia e Bioprocessos;Ciências Biológicas;1;1;Introdução à Ciência da Computação ;1;4;SM;CDSA
+46;Eng. De Biotecnologia e Bioprocessos;Ciências Biológicas;1;0;Programação;3;4;SM;CDSA
+47;Eng. De Biotecnologia e Bioprocessos;Ciências Biológicas;1;0;Bioinformática ;8;4;SM;CDSA
+48;Agroecologia;Ciências Agrárias;1;0;Informática Básica ;1;2;SM;CDSA
+49;Educação do Campo (Lic);Ciências Agrárias;1;0;Informática Básica ;2;2;SM;CDSA
+50;Engenharia de Biossistemas;Engenharias;1;1;Introdução à Ciência da Computação ;1;4;SM;CDSA
+51;Engenharia de Biossistemas;Engenharias;1;0;Programação ;4;4;SM;CDSA
+52;Engenharia de Produção;Engenharias;1;1;Introdução à Ciência da Computação ;1;4;SM;CDSA
+53;Engenharia de Produção;Engenharias;1;0;Programação ;3;4;SM;CDSA
+54;Engenharia de Produção;Engenharias;1;0;Gestão da Informação ;7;4;SM;CDSA
+55;Matemática (Lic);Ciências Exatas e da Terra;1;0;Informática Aplicada ao Ensino ;1;4;CT;CES
+56;Matemática (Lic);Ciências Exatas e da Terra;1;0;Algoritmos e Línguagens de Programação ;5;4;CT;CES
+57;Nutrição;Ciências da Saúde;1;0;Informática Aplicada à Saúde ;1;2;CT;CES
+58;Química (Lic);Ciências Exatas e da Terra;1;0;Informática Aplicada ao Ensino ;2;4;CT;CES
+59;Matemática (Lic);Ciências Exatas e da Terra;1;0;Informática Aplicada ao Ensino ;1;4;CT;CES
+60;Matemática (Lic);Ciências Exatas e da Terra;1;0;Algoritmos e Línguagens de Programação ;6;4;CT;CES
+61;Nutrição;Ciências da Saúde;1;0;Informática Aplicada à Saúde ;1;2;CT;CES
+62;Química (Lic);Ciências Exatas e da Terra;1;0;Informática Aplicada ao Ensino ;2;4;CT;CES
+63;Enfermangem;Ciências da Saúde;1;0;Informática Aplicada à Saúde ;4;2;CT;CES
+64;Física (Lic);Ciências Exatas e da Terra;1;0;Algoritmos e Línguagens de Programação ;2;4;CT;CES
+65;Física (Lic);Ciências Exatas e da Terra;1;0;Algoritmos e Línguagens de Programação ;6;4;CT;CES
+66;Matemática (Lic);Ciências Exatas e da Terra;1;0;Informática no Ensino de Matemática ;1;4;CZ;CFP
+67;Matemática (Lic);Ciências Exatas e da Terra;1;1;Introdução à Ciência da Computação ;3;4;CZ;CFP
