@@ -11,21 +11,21 @@ A análise de dados é uma etapa crucial em qualquer pesquisa científica. Ela p
 
 O minicurso abrange os seguintes tópicos:
 
-1. **Módulo 1: Fundamentos da Análise de Dados**  
+1. **Módulo: Fundamentos da Análise de Dados**  
    - O que é Data Analytics  
    - Ciclo de vida da análise de dados  
    - Tipos de análise: descritiva, diagnóstica, preditiva e prescritiva  
    - Papel do Python na ciência de dados  
    - Conhecendo as ferramentas: Google Colab, Jupyter, VSCode, Anaconda  
 
-2. **Módulo 2: Introdução ao Python para Dados**  
+2. **Módulo: Introdução ao Python para Dados**  
    - Tipos de dados, variáveis e operadores  
    - Estruturas de controle (condições e laços)  
    - Funções e módulos  
    - Manipulação básica de listas, dicionários e strings  
    - Boas práticas de codificação  
 
-3. **Módulo 3: Manipulação de Dados com Pandas**  
+3. **Módulo: Manipulação de Dados com Pandas**  
    - Estruturas principais: Series e DataFrame  
    - Leitura de arquivos (CSV, Excel, JSON)  
    - Seleção, filtragem e ordenação  
@@ -34,28 +34,28 @@ O minicurso abrange os seguintes tópicos:
    - Agrupamento e agregações  
    - Merge, join e concatenação  
 
-4. **Módulo 4: Transformação de Dados com Python**  
+4. **Módulo: Transformação de Dados com Python**  
    - Aplicação de funções com `apply()`  
    - Criação de variáveis derivadas  
    - Classificação e segmentação de dados  
    - Normalização e padronização  
    - Conversão de tipos e parsing de datas  
 
-5. **Módulo 5: Análise Estatística e Exploratória**  
+5. **Módulo: Análise Estatística e Exploratória**  
    - Medidas descritivas (média, mediana, moda, desvio padrão)  
    - Quartis, outliers e boxplots  
    - Correlação e covariância  
    - Análise exploratória com Pandas e Seaborn  
    - Identificação de padrões e tendências  
 
-6. **Módulo 6: Visualização de Dados**  
+6. **Módulo: Visualização de Dados**  
    - Princípios de boas visualizações  
    - Uso de Matplotlib  
    - Gráficos de barra, linha, dispersão e histograma  
    - Visualizações interativas com Plotly  
    - Dashboards simples com Streamlit (introdução)  
 
-7. **Módulo 7: Introdução à Modelagem Preditiva**  
+7. **Módulo: Introdução à Modelagem Preditiva**  
    - Conceitos básicos de machine learning  
    - Separação treino/teste  
    - Aplicação de modelos simples com scikit-learn (regressão e classificação)  
