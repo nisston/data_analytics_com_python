@@ -71,6 +71,8 @@ O minicurso abrange os seguintes tópicos:
 
 ## Exemplos práticos
 
+- [Módulo VII](https://colab.research.google.com/drive/10EgAqug0qA24GUtjl6LnvilBfTKv058I?usp=sharing)
+- [Módulo VI](https://colab.research.google.com/drive/10on6EyTuVqhi4_wxYXlmBQOGdLgB4RJC?usp=sharing)
 - [Módulo V](https://colab.research.google.com/drive/1iVA2F-FYO4nu6_nGSSPBKmAgKsc3M1c1?usp=sharing)
 - [Módulo IV](https://colab.research.google.com/drive/1X0mO-wEpo1v5KohPh8t2CCWzeknZzQM9?usp=sharing)
 - [Módulo III](https://colab.research.google.com/drive/1k5Iy8jDzF1eNQq9BApPyTWYe_zPmmial?usp=sharing)
